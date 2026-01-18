@@ -50,3 +50,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=felipelalmeida&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=felipelalmeida&theme=nightowl&hide_border=false)<br/>
 ###
+
+<!--Sites para gerar o read.me-->
+<!--https://profile-readme-generator.com/-->
+<!--https://gprm.itsvg.in/-->
